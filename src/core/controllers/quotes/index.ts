@@ -1,0 +1,1 @@
+export { quotes } from './quote.controller';

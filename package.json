@@ -1,0 +1,28 @@
+{
+  "name": "next-pulse-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate to get started with PulseJS & Next.js",
+  "main": "index.js",
+  "repository": "git@github.com:itsRems/next-pulse-boilerplate",
+  "author": "itsRems <contact@itsrems.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next -p 8080",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@pulsejs/core": "^3.5.2",
+    "@pulsejs/next": "^3.5.2",
+    "@pulsejs/react": "^3.5.2",
+    "next": "^10.0.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.22",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "typescript": "^4.1.3"
+  }
+}
