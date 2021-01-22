@@ -4,7 +4,7 @@ import {
   QuoteState as state
 } from './quote.state';
 
-export function loadQuotes () {
+export async function loadQuotes () {
   collection.collect(ProgrammingQuotes, 'programming');
   state.QUOTES_LOADED.set(true);
 }

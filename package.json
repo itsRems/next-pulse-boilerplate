@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@pulsejs/core": "^3.5.2",
-    "@pulsejs/next": "^3.5.2",
+    "@pulsejs/next": "^3.5.4",
     "@pulsejs/react": "^3.5.2",
     "next": "^10.0.5",
     "react": "^17.0.1",

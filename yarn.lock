@@ -159,10 +159,10 @@
   resolved "https://registry.yarnpkg.com/@pulsejs/core/-/core-3.5.2.tgz#9c0280a7794adecaca2953a09187d4857f36e3fb"
   integrity sha512-ikx1ZiR0X5rvOukNZ59rySPrWEQJd2XHxIz0WenrJHD4ojGYXv0QyTmIzumCvDg+VVSwWYDtUyL1Gou1sJLECw==
 
-"@pulsejs/next@^3.5.2":
-  version "3.5.2"
-  resolved "https://registry.yarnpkg.com/@pulsejs/next/-/next-3.5.2.tgz#98e6f79f80c1f4f1ddd60e13633470db5376a81a"
-  integrity sha512-xKLaNsevhEmqpXHI94GeAsTp3YAPM93gL6jA1AIpC4ZlkK8yusC/dWKFb9CYVh2s9e2x8RLpOCZuqM4AczDQiw==
+"@pulsejs/next@^3.5.4":
+  version "3.5.4"
+  resolved "https://registry.yarnpkg.com/@pulsejs/next/-/next-3.5.4.tgz#84a606fa31bf00864ad561c7d44bc8f6e15221e7"
+  integrity sha512-c7JSgY5ozv3lT1h7K6Igmrntq5tOy6GT64nhmnU5R53mrA2BgsWlSnWzhR2aOa2wXq5qbwT1/t3MOSAtYH9D+w==
 
 "@pulsejs/react@^3.5.2":
   version "3.5.2"
