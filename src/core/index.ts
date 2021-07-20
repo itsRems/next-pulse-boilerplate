@@ -6,4 +6,6 @@ export function initCore() {
   instance.core(core);
 }
 
+initCore();
+
 export default core;
