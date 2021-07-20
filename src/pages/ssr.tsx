@@ -1,10 +1,10 @@
 import { preserveServerState, usePulse } from '@pulsejs/next';
 import core from '../core';
-import { ProgrammingQuotes } from '../core/controllers/quotes/quote.data';
+import { ProgrammingQuotes } from '../core/modules/quotes/quote.data';
 
 export default function SsrQuotes () {
   const [quotes] = usePulse([
-    core.quotes.groups.programming
+    core.quotes.collection.groups.programming
   ]);
   return (
     <div>

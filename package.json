@@ -12,9 +12,9 @@
     "start": "next start"
   },
   "dependencies": {
-    "@pulsejs/core": "^3.5.2",
-    "@pulsejs/next": "^3.5.4",
-    "@pulsejs/react": "^3.5.2",
+    "@pulsejs/core": "^4.0.0-beta.3",
+    "@pulsejs/next": "^4.0.0-beta.3",
+    "@pulsejs/react": "^4.0.0-beta.3",
     "next": "^10.0.5",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"

@@ -4,7 +4,7 @@ import core from "../core";
 
 export default function IndexPage () {
   const [quotes, show] = usePulse([
-    core.quotes.groups.programming,
+    core.quotes.collection.groups.programming,
     core.quotes.state.QUOTES_LOADED
   ]);
   useEffect(() => {

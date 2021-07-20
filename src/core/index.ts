@@ -1,5 +1,9 @@
-import { core } from './core';
+import { instance } from '@pulsejs/core';
+import * as core from './modules';
 
-export { App } from './app';
+// init core, tells pulse to initialize all computed values
+export function initCore() {
+  instance.core(core);
+}
 
 export default core;
